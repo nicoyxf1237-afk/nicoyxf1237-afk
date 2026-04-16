@@ -13,3 +13,4 @@
 - 💻 作品集：[敬请期待]
 
 ---
+![Nicole's Github Stats](https://github-readme-stats.vercel.app/api?username=nicoyxf1237-afk)
